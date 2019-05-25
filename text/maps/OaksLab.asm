@@ -34,13 +34,13 @@ _OaksLabCharmanderText::
 _OaksLabSquirtleText::
 	text "So! You want the"
 	line "water #mon,"
-	cont "Squirtle?"
+	cont "Totodile?"
 	done
 
 _OaksLabBulbasaurText::
 	text "So! You want the"
 	line "plant #mon,"
-	cont "Bulbasaur?"
+	cont "Chikorita?"
 	done
 
 _OaksLabMonEnergeticText::
