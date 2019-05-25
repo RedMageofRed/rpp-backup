@@ -1,18 +1,18 @@
 BulbasaurCryHeader:
 	dw $0f  ; cry id
-	db $80  ; pitch
+	db $FF  ; pitch
 	db $00  ; echo
 	dw $081 ; length
 
 IvysaurCryHeader:
 	dw $0f  ; cry id
-	db $20  ; pitch
+	db $FF  ; pitch
 	db $00  ; echo
 	dw $100 ; length
 
 VenusaurCryHeader:
 	dw $0f  ; cry id
-	db $00  ; pitch
+	db $FF  ; pitch
 	db $00  ; echo
 	dw $140 ; length
 
@@ -35,19 +35,19 @@ CharizardCryHeader:
 	dw $100 ; length
 
 SquirtleCryHeader:
-	dw $1d  ; cry id
-	db $60  ; pitch
+	dw $04  ; cry id
+	db $F0  ; pitch
 	db $00  ; echo
 	dw $0c0 ; length
 
 WartortleCryHeader:
-	dw $1d  ; cry id
+	dw $04  ; cry id
 	db $20  ; pitch
 	db $00  ; echo
 	dw $0c0 ; length
 
 BlastoiseCryHeader:
-	dw $13  ; cry id
+	dw $04  ; cry id
 	db $00  ; pitch
 	db $00  ; echo
 	dw $100 ; length
@@ -1229,16 +1229,16 @@ MuchlaxCryHeader:
 	dw $081 ; length
 
 ZigzagoonCryHeader:
-	dw $2e  ; cry id
-	db $8a  ; pitch
+	dw $19  ; cry id
+	db $77  ; pitch
 	db $00  ; echo
-	dw $0b8 ; length
+	dw $090 ; length
 
 LinooneCryHeader:
-	dw $2e  ; cry id
-	db $6b  ; pitch
+	dw $19  ; cry id
+	db $99  ; pitch
 	db $00  ; echo
-	dw $102 ; length
+	dw $17f ; length
 
 HoohCryHeader:
 	dw $41  ; cry id
