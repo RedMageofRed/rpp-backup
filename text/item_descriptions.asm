@@ -1435,7 +1435,7 @@ _HM04Description_Mart::
 	done
 
 _HM05Description_Mart::
-	text "HM05 - Dive"
+	text "HM05 - Waterfall"
 	done
 
 _TM01Description_Mart::
