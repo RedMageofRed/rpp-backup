@@ -271,9 +271,9 @@ SlowbroDexEntry:
 	db "@"
 
 IvysaurDexEntry:
-	db "Seed@"
-	db 3,3
-	dw 290
+	db "Leaf@"
+	db 3,11
+	dw 350
 	TX_FAR _IvysaurDexEntry
 	db "@"
 
@@ -404,9 +404,9 @@ StaryuDexEntry:
 	db "@"
 
 BlastoiseDexEntry:
-	db "Shellfish@"
-	db 5,3
-	dw 1890
+	db "Big Jaw@"
+	db 7,7
+	dw 1960
 	TX_FAR _BlastoiseDexEntry
 	db "@"
 
@@ -1091,15 +1091,15 @@ StarmieDexEntry:
 
 BulbasaurDexEntry:
 	db "Seed@"
-	db 2,4
-	dw 150
+	db 2,11
+	dw 140
 	TX_FAR _BulbasaurDexEntry
 	db "@"
 
 VenusaurDexEntry:
-	db "Seed@"
-	db 6,7
-	dw 2210
+	db "Herb@"
+	db 5,11
+	dw 2220
 	TX_FAR _VenusaurDexEntry
 	db "@"
 
@@ -1202,9 +1202,9 @@ CharmanderDexEntry:
 	db "@"
 
 SquirtleDexEntry:
-	db "TinyTurtle@"
-	db 1,8
-	dw 200
+	db "Big Jaw@"
+	db 2,0
+	dw 210
 	TX_FAR _SquirtleDexEntry
 	db "@"
 
@@ -1216,9 +1216,9 @@ CharmeleonDexEntry:
 	db "@"
 
 WartortleDexEntry:
-	db "Turtle@"
-	db 3,3
-	dw 500
+	db "Big Jaw@"
+	db 3,7
+	dw 550
 	TX_FAR _WartortleDexEntry
 	db "@"
 
@@ -1650,16 +1650,16 @@ MunchlaxDexEntry:
 	db "@"
 
 ZigzagoonDexEntry:
-	db "Raccoon@"
-	db 1,4
-	dw 386
+	db "Kitten@"
+	db 2,0
+	dw 243
 	TX_FAR _ZigzagoonDexEntry
 	db "@"
 
 LinooneDexEntry:
-	db "Rushing@"
-	db 1,8
-	dw 716
+	db "Prim@"
+	db 3,7
+	dw 326
 	TX_FAR _LinooneDexEntry
 	db "@"
 

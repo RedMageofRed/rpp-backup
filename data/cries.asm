@@ -1,14 +1,14 @@
 CryData:
 ;$BaseCry, $Pitch, $Length
-db $0F, $80, $01; Bulbasaur
-db $0F, $20, $80; Ivysaur
-db $0F, $00, $C0; Venusaur
+db $0F, $FF, $01; Bulbasaur
+db $0F, $FF, $80; Ivysaur
+db $0F, $FF, $C0; Venusaur
 db $04, $60, $40; Charmander
 db $04, $20, $40; Charmeleon
 db $04, $00, $80; Charizard
-db $1D, $60, $40; Squirtle
-db $1D, $20, $40; Wartortle
-db $13, $00, $80; Blastoise
+db $04, $60, $40; Totodile
+db $04, $20, $40; Croconaw
+db $04, $00, $80; Feraligatr
 db $16, $80, $20; Caterpie
 db $1C, $CC, $01; Metapod
 db $16, $77, $40; Butterfree

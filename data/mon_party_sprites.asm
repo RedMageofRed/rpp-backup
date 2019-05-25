@@ -2,8 +2,8 @@ MonPartyData:
 	dn SPRITE_GRASS, SPRITE_GRASS           ;Bulbasaur/Ivysaur
 	dn SPRITE_GRASS, SPRITE_MON             ;Venusaur/Charmander
 	dn SPRITE_MON, SPRITE_MON               ;Charmeleon/Charizard
-	dn SPRITE_WATER, SPRITE_WATER           ;Squirtle/Wartortle
-	dn SPRITE_WATER, SPRITE_BUG             ;Blastoise/Caterpie
+	dn SPRITE_MON, SPRITE_MON           ;Squirtle/Wartortle
+	dn SPRITE_MON, SPRITE_BUG             ;Blastoise/Caterpie
 	dn SPRITE_BUG, SPRITE_BUG               ;Metapod/Butterfree
 	dn SPRITE_BUG, SPRITE_BUG               ;Weedle/Kakuna
 	dn SPRITE_BUG, SPRITE_BIRD_M            ;Beedrill/Pidgey
