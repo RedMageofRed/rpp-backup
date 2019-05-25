@@ -52,4 +52,4 @@
 	db FLY          ; Route 16
 	db SURF         ; Safari Zone Secret House
 	db STRENGTH     ; Fuchsia City
-	db DIVE         ; Not available until v3, Sorry
+	db WATERFALL    ; Seafoam Islands
