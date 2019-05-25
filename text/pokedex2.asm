@@ -428,23 +428,23 @@ _MunchlaxDexEntry::
 	dex
 
 _ZigzagoonDexEntry::
-	text "It walks in zigzag"
-	next "fashion. It is"
-	next "good at finding"
+	text "It's adorable"
+	next "when it chases"
+	next "its own tail."
 
-	page "items in the grass"
-	next "and even in the"
-	next "ground"
+	page "It's difficult"
+	next "to earn its"
+	next "trust"
 	dex
 
 _LinooneDexEntry::
-	text "It charges prey at"
-	next "speeds over 60"
-	next "mph. However, be-"
+	text "It dislikes mean"
+	next "trainers and"
+	next "dirty places."
 
-	page "cause it can only"
-	next "run straight,"
-	next "it often fails"
+	page "It is prized"
+	next "as one of the"
+	next "cutest #mon"
 	dex
 
 _HoohDexEntry::

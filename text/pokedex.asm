@@ -79,13 +79,13 @@ _SlowbroDexEntry::
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "The scent that"
+	next "wafts from the"
+	next "leaves on its neck"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "causes anyone who"
+	next "smells it to"
+	next "become energetic"
 	dex
 
 _ExeggutorDexEntry::
@@ -269,13 +269,13 @@ _StaryuDexEntry::
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #mon"
-	next "with pressurized"
-	next "water jets on its"
+	text "Although it has a"
+	next "massive body, its"
+	next "powerful hind legs"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "enable it to move"
+	next "quickly, even on"
+	next "the ground"
 	dex
 
 _PinsirDexEntry::
@@ -1249,23 +1249,23 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "It loves to bask"
+	next "in the sunlight."
+	next "It uses the leaf"
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #mon"
+	page "on its head to"
+	next "seek out warm"
+	next "places"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "Anyone who stands"
+	next "beside it becomes"
+	next "refreshed, just as"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "if they were"
+	next "relaxing in a"
+	next "sunny forest"
 	dex
 
 _TentacruelDexEntry::
@@ -1409,13 +1409,13 @@ _CharmanderDexEntry::
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "This rough critter"
+	next "chomps at any"
+	next "moving object it"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "sees. Turning your"
+	next "back on it is not"
+	next "recommended"
 	dex
 
 _CharmeleonDexEntry::
@@ -1429,13 +1429,13 @@ _CharmeleonDexEntry::
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "The tips of its"
+	next "fangs are slanted"
+	next "backward. Once"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "those fangs clamp"
+	next "down, the prey has"
+	next "no hope of escape"
 	dex
 
 _CharizardDexEntry::
