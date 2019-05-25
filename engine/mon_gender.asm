@@ -51,9 +51,9 @@ GetMonGender::
 	ret
 	
 MonGenderRatios:
-	db MALE_88_PERCENT   ; Bulbasaur
-	db MALE_88_PERCENT   ; Ivysaur
-	db MALE_88_PERCENT   ; Venusaur
+	db FEMALE_75_PERCENT  ; Bulbasaur
+	db FEMALE_75_PERCENT  ; Ivysaur
+	db FEMALE_75_PERCENT  ; Venusaur
 	db MALE_88_PERCENT   ; Charmander
 	db MALE_88_PERCENT   ; Charmeleon
 	db MALE_88_PERCENT   ; Charizard
@@ -183,10 +183,10 @@ MonGenderRatios:
 	db SAME_BOTH_GENDERS ; Gyarados
 	db SAME_BOTH_GENDERS ; Lapras
 	db NO_GENDER         ; Ditto
-	db MALE_88_PERCENT   ; Eevee
-	db MALE_88_PERCENT   ; Vaporeon
-	db MALE_88_PERCENT   ; Jolteon
-	db MALE_88_PERCENT   ; Flareon
+	db FEMALE_75_PERCENT ; Eevee
+	db FEMALE_75_PERCENT ; Vaporeon
+	db FEMALE_75_PERCENT ; Jolteon
+	db FEMALE_75_PERCENT ; Flareon
 	db NO_GENDER         ; Porygon
 	db MALE_88_PERCENT   ; Omanyte
 	db MALE_88_PERCENT   ; Omastar
@@ -208,11 +208,11 @@ MonGenderRatios:
 	db SAME_BOTH_GENDERS ; Murkrow
 	db SAME_BOTH_GENDERS ; Honchkrow
 	db SAME_BOTH_GENDERS ; Heracross
-	db MALE_88_PERCENT   ; Espeon
-	db MALE_88_PERCENT   ; Umbreon
-	db MALE_88_PERCENT   ; Glaceon
-	db MALE_88_PERCENT   ; Leafeon
-	db MALE_88_PERCENT   ; Sylveon
+	db FEMALE_75_PERCENT ; Espeon
+	db FEMALE_75_PERCENT ; Umbreon
+	db FEMALE_75_PERCENT ; Glaceon
+	db FEMALE_75_PERCENT ; Leafeon
+	db FEMALE_75_PERCENT ; Sylveon
 	db SAME_BOTH_GENDERS ; Scizor
 	db SAME_BOTH_GENDERS ; Steelix
 	db SAME_BOTH_GENDERS ; Crobat
