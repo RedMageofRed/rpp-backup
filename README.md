@@ -66,7 +66,7 @@ After setting up the repository, you'll want to download the current release of 
 
 ## See also
 
-* [**Pokémon Red++ v3**][rpp-backup] by TheFakeMateo.
+* [**Pokémon Red++ v3**](https://github.com/TheFakeMateo/rpp-backup) by TheFakeMateo.
 * [**Pokémon Red++ v4**][redplusplus] by TheFakeMateo.
 * [**Pokémon Polished Crystal**][polished] by Rangi.
 * [**Pokémon RedStar/BlueStar**][redstarbluestar] by Rangi.
