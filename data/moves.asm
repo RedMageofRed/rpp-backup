@@ -200,7 +200,7 @@ MoveEnd:
 	move BARRIER,      DEFENSE_UP2_EFFECT,           0, STEEL,    100, 15 ; Iron Defense
 	move CUT,          FLINCH_SIDE_EFFECT2,         75, FLYING,    95, 15 ; Air Slash
 	move FIRE_PUNCH,   FIRE_FANG_EFFECT,            65, FIRE,      95, 15 ; Fire Fang
-	move FLAMETHROWER, RECOIL_EFFECT,              120, FIRE,     100, 15 ; Flare Blitz
+	move FIRE_SPIN,    RECOIL_EFFECT,              120, FIRE,     100, 15 ; Flare Blitz
 	move FIRE_BLAST,   HYPER_BEAM_EFFECT,          150, FIRE,      90,  5 ; Blast Burn
 	move ICE_PUNCH,    ICE_FANG_EFFECT,             65, ICE,       95, 15 ; Ice Fang
 	move THUNDERPUNCH, THUNDER_FANG_EFFECT,         65, ELECTRIC,  95, 15 ; Thunder Fang
