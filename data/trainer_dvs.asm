@@ -1,52 +1,52 @@
 TrainerClassDVs:
 	;  Atk  Spd
 	;  Def  Spc
-	db $98, $88 ; YOUNGSTER
-	db $98, $88 ; BUG_CATCHER
-	db $78, $88 ; LASS
-	db $98, $88 ; SAILOR
-	db $98, $88 ; CAMPER
-	db $6A, $A8 ; PICNICKER
-	db $98, $88 ; POKEMANIAC
-	db $98, $88 ; SUPER_NERD
-	db $A8, $88 ; HIKER
-	db $A8, $88 ; BIKER
-	db $98, $88 ; BURGLAR
-	db $98, $88 ; ENGINEER
-	db $98, $88 ; COUPLE
-	db $98, $88 ; FISHER
-	db $98, $88 ; SWIMMER
-	db $A8, $88 ; CUE_BALL
-	db $98, $88 ; GAMBLER
+	db $D8, $A8 ; YOUNGSTER
+	db $D8, $A8 ; BUG_CATCHER
+	db $7F, $DF ; LASS
+	db $D8, $A8 ; SAILOR
+	db $D8, $A8 ; CAMPER
+	db $7A, $A8 ; PICNICKER
+	db $A8, $CC ; POKEMANIAC
+	db $A8, $CC ; SUPER_NERD
+	db $BC, $CC ; HIKER
+	db $BC, $CC ; BIKER
+	db $A8, $CC ; BURGLAR
+	db $A8, $CC ; ENGINEER
+	db $D8, $A8 ; COUPLE
+	db $A8, $CC ; FISHER
+	db $A8, $CC ; SWIMMER
+	db $AC, $CC ; CUE_BALL
+	db $D8, $A8 ; GAMBLER
 	db $79, $C8 ; BEAUTY
-	db $98, $88 ; PSYCHIC_TR
-	db $98, $88 ; ROCKER
-	db $98, $88 ; JUGGLER
-	db $98, $88 ; TAMER
-	db $98, $88 ; BIRD_KEEPER
-	db $98, $88 ; BLACKBELT
-	db $9D, $DD ; SONY1
+	db $7F, $DF ; PSYCHIC_TR
+	db $D8, $A8 ; ROCKER
+	db $D8, $A8 ; JUGGLER
+	db $D8, $A8 ; TAMER
+	db $D8, $A8 ; BIRD_KEEPER
+	db $D8, $A8 ; BLACKBELT
+	db $DD, $DD ; SONY1
 	db $78, $88 ; SWIMMER_F
 	db $7E, $A8 ; ROCKET_F
-	db $98, $88 ; SCIENTIST
+	db $D8, $A8 ; SCIENTIST
 	db $D8, $A8 ; GIOVANNI
 	db $D8, $A8 ; ROCKET
 	db $D8, $C8 ; COOLTRAINER_M
 	db $7C, $C8 ; COOLTRAINER_F
 	db $DC, $DD ; BRUNO
-	db $9A, $77 ; BROCK
+	db $D8, $C8 ; BROCK
 	db $78, $88 ; MISTY
-	db $98, $AA ; LT_SURGE
+	db $D8, $EE ; LT_SURGE
 	db $78, $88 ; ERIKA
-	db $98, $88 ; KOGA
-	db $98, $88 ; BLAINE
-	db $7D, $87 ; SABRINA
-	db $98, $88 ; GENTLEMAN
-	db $9D, $DD ; SONY2
-	db $9D, $DD ; SONY3
+	db $D8, $C8 ; KOGA
+	db $D8, $C8 ; BLAINE
+	db $7F, $DF ; SABRINA
+	db $D8, $C8 ; GENTLEMAN
+	db $DD, $DD ; SONY2
+	db $DD, $DD ; SONY3
 	db $7F, $DF ; LORELEI
-	db $78, $8A ; CHANNELER
+	db $7F, $DF ; CHANNELER
 	db $7F, $DF ; AGATHA
-	db $DC, $DD ; LANCE
-	db $78, $8A ; HEX_MANIAC
-	db $7D, $DD ; PKMN_TRAINER
+	db $EE, $EE ; LANCE
+	db $7F, $DF ; HEX_MANIAC
+	db $7F, $FF ; PKMN_TRAINER
