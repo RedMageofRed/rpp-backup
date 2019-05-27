@@ -1514,7 +1514,7 @@ Mon059_EvosMoves:
 	db 0
 ;Learnset
 	db 1,BITE
-	db 1,FLAME_WHEEL
+	db 1,THUNDER_FANG
 	db 1,TAKE_DOWN
 	db 1,EXTREMESPEED
 	db 6,EMBER
