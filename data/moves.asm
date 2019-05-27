@@ -199,18 +199,18 @@ MoveEnd:
 	move WING_ATTACK,  DEFENSE_UP1_SIDE_EFFECT,     70, STEEL,     90, 25 ; Steel Wing
 	move BARRIER,      DEFENSE_UP2_EFFECT,           0, STEEL,    100, 15 ; Iron Defense
 	move CUT,          FLINCH_SIDE_EFFECT2,         75, FLYING,    95, 15 ; Air Slash
-	move BITE,         FIRE_FANG_EFFECT,            65, FIRE,      95, 15 ; Fire Fang
-	move EMBER,        RECOIL_EFFECT,              120, FIRE,     100, 15 ; Flare Blitz
+	move FIRE_PUNCH,   FIRE_FANG_EFFECT,            65, FIRE,      95, 15 ; Fire Fang
+	move FLAMETHROWER, RECOIL_EFFECT,              120, FIRE,     100, 15 ; Flare Blitz
 	move FIRE_BLAST,   HYPER_BEAM_EFFECT,          150, FIRE,      90,  5 ; Blast Burn
-	move BITE,         ICE_FANG_EFFECT,             65, ICE,       95, 15 ; Ice Fang
-	move BITE,         THUNDER_FANG_EFFECT,         65, ELECTRIC,  95, 15 ; Thunder Fang
+	move ICE_PUNCH,    ICE_FANG_EFFECT,             65, ICE,       95, 15 ; Ice Fang
+	move THUNDERPUNCH, THUNDER_FANG_EFFECT,         65, ELECTRIC,  95, 15 ; Thunder Fang
 	move BUBBLEBEAM,   CONFUSION_SIDE_EFFECT,       60, WATER,    100, 20 ; Water Pulse
 	move SURF,         NO_ADDITIONAL_EFFECT,        90, WATER,    100, 10 ; Aqua Tail
 	move AURORA_BEAM,  HYPER_BEAM_EFFECT,          150, WATER,     90,  5 ; Hydro Cannon
 	move VINE_WHIP,    HYPER_BEAM_EFFECT,          150, GRASS,     90,  5 ; Frenzy Plant
 	move MEGA_PUNCH,   NO_ADDITIONAL_EFFECT,        70, DARK,     100,  5 ; Sucker Punch
 	move BARRAGE,      SPECIAL_DOWN_SIDE_EFFECT,    80, GHOST,    100, 15 ; Shadow Ball
-	move EMBER,        BURN_SIDE_EFFECT1,           60, FIRE,     100, 25 ; Flame Wheel
+	move FIRE_PUNCH,   BURN_SIDE_EFFECT1,           60, FIRE,     100, 25 ; Flame Wheel
 	move FOCUS_ENERGY, HEAL_EFFECT,                  0, FAIRY,    100, 20 ; Moonlight
 	move PSYCHIC_M,    NO_ADDITIONAL_EFFECT,        65, GHOST,    100, 10 ; Hex
 	move MEGA_PUNCH,   SWIFT_EFFECT,                60, GHOST,    100, 20 ; Shadow Punch
@@ -220,7 +220,7 @@ MoveEnd:
 	move GUST,         SPEED_DOWN_SIDE_EFFECT,      55, ICE,       95, 15 ; Icy Wind
 	move BLIZZARD,     NO_ADDITIONAL_EFFECT,        40, ICE,      100, 30 ; Ice Shard
 	move BLIZZARD,     OHKO_EFFECT,                  1, ICE,       30,  5 ; Sheer Cold
-	move THUNDER,      NO_ADDITIONAL_EFFECT,        80, ELECTRIC, 100, 10 ; Electro Ball
+	move THUNDERBOLT,  NO_ADDITIONAL_EFFECT,        80, ELECTRIC, 100, 10 ; Electro Ball
 	move TACKLE,       NUZZLE_EFFECT,               20, ELECTRIC, 100, 20 ; Nuzzle
 	move THUNDERBOLT,  PARALYZE_SIDE_EFFECT1,       80, ELECTRIC, 100, 15 ; Discharge
 	move QUICK_ATTACK, VOLT_TACKLE_EFFECT,         120, ELECTRIC, 100, 15 ; Volt Tackle
@@ -264,3 +264,4 @@ MoveEnd:
 	move SURF,         CHARGE_EFFECT,               80, WATER,    100, 10 ; Dive (Unused)
 	move FLASH,        SPECIAL_DOWN_SIDE_EFFECT,    70, PSYCHIC,  100,  5 ; Luster Purge
 	move GLARE,        SILVER_WIND_EFFECT,         100, PSYCHIC,  100, 10 ; Mind Blast
+	
