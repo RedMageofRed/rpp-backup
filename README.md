@@ -1,6 +1,6 @@
 # Pokémon Red++ v3
 
-This is based on the [**Pokémon Red Disassembly**][pokered]
+This is based on the [**Pokémon Red Disassembly**][pokered] and the Pokemon Red++ project created by TheFakeMateo.
 
 Red++ serves as an updated version of Pokémon Red.
 
@@ -66,7 +66,8 @@ After setting up the repository, you'll want to download the current release of 
 
 ## See also
 
-* [**Pokémon Red++ v4**][redplusplus] by Me.
+* [**Pokémon Red++ v3**][rpp-backup] by TheFakeMateo.
+* [**Pokémon Red++ v4**][redplusplus] by TheFakeMateo.
 * [**Pokémon Polished Crystal**][polished] by Rangi.
 * [**Pokémon RedStar/BlueStar**][redstarbluestar] by Rangi.
 * [**Pokémon Orange**][orange] by Pia Carrot.
